@@ -13,6 +13,6 @@ This random line expression technique is generally called "Random Walk" in codin
 ![An image of p22](readmeImages/p22.png)
 ![An image of p23](readmeImages/p23.png)
 
-example implementation:
+Example implementation:
 [Link Text](https://dhruvkaran.com/posts/recreating-paintings-with-p5js)
 [Link Text](https://www.generativehut.com/post/random-walkers)
